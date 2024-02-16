@@ -1,7 +1,8 @@
 # Contact
 [Twitter@curry_on_a_rice](https://twitter.com/curry_on_a_rice)
 
+
 # Kaggle
-<img width="246" alt="medals" src="https://github.com/kenken-neko/kenken-neko/assets/42142120/eebee287-7cbb-41da-aea8-da6f35e264ed">  
+![kaggle_prof](https://github.com/kenken-neko/kenken-neko/assets/42142120/c03ef771-66fd-4f0d-822c-26ed7db817f6)
 
 https://www.kaggle.com/kentatanaka1data
